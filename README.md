@@ -28,6 +28,7 @@ Welcome to ForestScope – your go-to tool for predicting forest cover types bas
 1. Clone this repository:
    ```bash
    git clone https://github.com/fazaulfath/Forest_Cover_Prediction.git
+   ```
 
 2. Create and activate a virtual environment:
   ```bash
