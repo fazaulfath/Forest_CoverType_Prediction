@@ -40,10 +40,9 @@ The **Forest Cover Type Prediction** project is a machine learning-based applica
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/winter000boy/Forest-Cover-Type-Prediction.git
-   cd Forest-Cover-Type-Prediction
+   git clone https://github.com/fazaulfath/Forest_Cover_Prediction.git
 
- 2. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
   ```bash
   python -m venv env
   source env/bin/activate  # On Windows: env\Scripts\activate
