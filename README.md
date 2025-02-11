@@ -36,12 +36,7 @@ Welcome to ForestScope – your go-to tool for predicting forest cover types bas
   source env/bin/activate  # On Windows: env\Scripts\activate
   ```
 
-3. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-4. Run the application:
+3. Run the application:
 
   ```bash
   python app.py
